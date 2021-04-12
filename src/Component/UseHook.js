@@ -5,6 +5,7 @@ const UseHook = () => {
     const myBioData =[
         {Name:"Shailesh", Age: 38, RollNumber:99},
         {Name:"Jack", Age: 22, RollNumber:101}
+        {Name:"Jane", Age: 23, RollNumber:102}
     ]
 
     const [myArray, setMyArray] = React.useState(myBioData);

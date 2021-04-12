@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hi</h1>
+        <h1>Hi There</h1>
         <UseHook/>
       
       </header>
